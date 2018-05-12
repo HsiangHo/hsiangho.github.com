@@ -33,7 +33,7 @@ site:
     url: ../images/logo.png
   title: 何翔君的专栏 # 页面title
   favicon: /favicon.png
-  board: <p>都说了，努力的人，运气再好一点，根本就跑得很快！ 我也是这种。</p> # 站点公告
+  board: <p>这个人很懒，什么都没有留下。</p> # 站点公告
   copyright: false # 底部版权信息
 
 # config
@@ -131,7 +131,7 @@ comment:
   # https://api.douban.com/v2/movie/subject/:id 单个电影信息
   # https://api.douban.com/v2/movie/search?q={text} 电影搜索
 douban:
-  user: # 豆瓣用户名
+  user: Xiang He# 豆瓣用户名
   start: 0 # 从哪一条记录开始
   count: 100 # 获取豆瓣书单数据条数
   
