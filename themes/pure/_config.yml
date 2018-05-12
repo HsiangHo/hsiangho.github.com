@@ -170,7 +170,7 @@ profile:
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Xiang He
   author_title: Software Developer
-  author_description: 个人简介。
+  author_description: 经济系小哥，编程思维差;5岁玩电脑，励志程序猿;撩妹数十载，遇佳人脸红;心思细腻、温柔有趣、努力、幸运的一个人啊！
   location: Chengdu, China
   follow: https://github.com/hsiangho
   # Social Links
@@ -187,7 +187,7 @@ profile:
   # My Skills 
   skills:
     Git: ★★★☆☆
-    C++: ★★★☆☆
+    C++: ★★★★☆
     Objective-C: ★★★★☆
     Swift : ★★★☆☆
     架构: ★★★☆☆
@@ -207,11 +207,10 @@ profile:
     - WWDC18 attendee
     - 梦想多语言制霸
   # My Personal Works
-  works:
-    name:
-      link: http://www.example.com
-      date: 2016
+  #works:
+    #name:
+      #link: http://www.example.com
+      #date: 2016
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+    HsiangHo/XUIKit: https://github.com/HsiangHo/XUIKit
