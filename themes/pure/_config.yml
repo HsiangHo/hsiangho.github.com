@@ -179,8 +179,8 @@ profile:
       github: https://github.com/hsiangho
       zhihu: https://www.zhihu.com/people/hsiangho
       email: mailto:hsiangho@foxmail.com
-      weibo: http://weibo.com/HKJOVI
-      facebook: https://www.facebook.com/profile.php?id=100004013025879
+      #weibo: http://weibo.com/HKJOVI
+      #facebook: https://www.facebook.com/profile.php?id=100004013025879
       #twitter: /
       # dribbble: /
       #behance: /
@@ -198,7 +198,8 @@ profile:
   links:
     Github: https://github.com/hsiangho
     Blog: https://hsiangho.github.io
-    微博: http://weibo.com/HKJOVI
+    知乎: https://www.zhihu.com/people/hsiangho
+    #微博: http://weibo.com/HKJOVI
     #花瓣: /
     #Behance: /
   # My Personal Labels
