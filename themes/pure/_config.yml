@@ -33,7 +33,7 @@ site:
     url: ../images/logo.png
   title: 何翔君的专栏 # 页面title
   favicon: /favicon.png
-  board: <p>这个人很懒，什么都没有留下。</p> # 站点公告
+  board: <p>这家伙很懒，什么都没有留下。</p> # 站点公告
   copyright: false # 底部版权信息
 
 # config
@@ -197,7 +197,7 @@ profile:
   # My Personal Links
   links:
     Github: https://github.com/hsiangho
-    Blog: https://hsiangho.github.io
+    Blog: https://hsiangho.github.io       
     知乎: https://www.zhihu.com/people/hsiangho
     #微博: http://weibo.com/HKJOVI
     #花瓣: /
