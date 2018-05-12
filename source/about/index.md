@@ -14,6 +14,7 @@ sidebar: custom
   experience: '3 years',
   address: 'Chengdu, CN',
   education: 'Bachelor@SICAU',
+  major: 'Economics',
   github: 'https://github.com/hsiangho',
   blog: 'https://hsiangho.github.io/',
   email: 'hsiangho@foxmail.com',
