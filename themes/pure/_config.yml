@@ -33,7 +33,7 @@ site:
     url: ../images/logo.png
   title: 何翔君的专栏 # 页面title
   favicon: /favicon.png
-  board: <p>欢迎交流与分享经验!</p> # 站点公告
+  board: <p>都说了，努力的人，运气再好一点，根本就跑得很快！ 我也是这种。</p> # 站点公告
   copyright: false # 底部版权信息
 
 # config
@@ -177,9 +177,9 @@ profile:
   social:
     links:
       github: https://github.com/hsiangho
-      #weibo: /
+      weibo: http://weibo.com/HKJOVI
       #twitter: /
-      # facebook: /
+      facebook: https://www.facebook.com/profile.php?id=100004013025879
       # dribbble: /
       #behance: /
       rss: atom.xml
@@ -187,26 +187,25 @@ profile:
   # My Skills 
   skills:
     Git: ★★★☆☆
-    Gulp: ★★★☆☆
-    Javascript: ★★★☆☆
-    HTML+CSS: ★★★☆☆
-    Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+    C++: ★★★☆☆
+    Objective-C: ★★★★☆
+    Swift : ★★★☆☆
+    架构: ★★★☆☆
+    
   # My Personal Links
   links:
     Github: https://github.com/hsiangho
-    #Blog: http://blog.cofess.com
-    #微博: http://weibo.com/cofess
-    #花瓣: http://huaban.com/cofess
-    #Behance: https://www.behance.net/cofess
+    Blog: https://hsiangho.github.io
+    微博: http://weibo.com/HKJOVI
+    #花瓣: /
+    #Behance: /
   # My Personal Labels
   labels:
-    - 前端
-    - 前端开发
-    - 前端重构
-    - Web前端
-    - 网页重构
+    - Software Developer
+    - Geek
+    - 果粉
+    - WWDC18 attendee
+    - 梦想多语言制霸
   # My Personal Works
   works:
     name:
