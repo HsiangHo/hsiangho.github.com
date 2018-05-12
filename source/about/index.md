@@ -1,11 +1,37 @@
 ---
 title: 关于
-description: 个人简介
+description: 是一个热爱生活、努力、温柔、有趣、幸运的人。
 layout: about
 comments: false
 sidebar: custom
 ---
-经济系小哥，编程思维差;5岁玩电脑，励志程序猿;撩妹数十载，遇佳人脸红;心思细腻、温柔有趣、努力、幸运的一个人啊！
+``` bash
+{
+  name: 'Xiang He'
+  YOB: 1993,
+  gender: 'M',
+  profession: 'Software Developer',
+  experience: '3 years',
+  address: 'Chengdu, CN',
+  education: 'Bachelor@SICAU',
+  github: 'https://github.com/hsiangho',
+  blog: 'https://hsiangho.github.io/',
+  email: 'hsiangho@foxmail.com',
+  description: '成为开发者是我1998年时的理想！',
+
+  skills: [
+    ['C', 'C++', 'Objective-C', 'Objective-C++', 'python', 'Go'],
+    ['Git', 'SVN']
+  ],
+
+  devTools: [
+    ['Xcode', 'Visual Studio', 'QT Creater'],
+    ['Star UML'],
+    ['SourceTree', 'TortoiseSVN', 'Github'],
+    ['IDA', 'Hopper Disassembler']
+  ]  
+}
+```
 
 
 
