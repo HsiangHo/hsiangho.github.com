@@ -10,7 +10,7 @@ date: 2018-05-13 08:20:00
 ---
 
 今年有幸抽中了WWDC18的门票，除开票价，那可是非常非常的开心！
-{% asset_img wwdc18.png wwdc18 %}
+![](wwdc/wwdc18.png)
 
 
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
