@@ -9,7 +9,7 @@ toc: true # 是否启用内容索引
 date: 2018-05-13 08:20:00
 ---
 
-有幸抽中了WWDC18的门票，除开肉疼的票价，那可是非常非常的开心！
+有幸抽中了WWDC18的门票，除开肉疼的票价，那可是非常非常的开心！  
 ![](/wwdc18.png)  
 此处有[详细版本](https://github.com/HsiangHo/In-Memory-Of-WWDC18)!!
 
