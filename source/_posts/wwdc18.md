@@ -9,44 +9,33 @@ toc: true # 是否启用内容索引
 date: 2018-05-13 08:20:00
 ---
 
-今年有幸抽中了WWDC18的门票，除开票价，那可是非常非常的开心！
+有幸抽中了WWDC18的门票，除开肉疼的票价，那可是非常非常的开心！
 ![](/wwdc18.png)
 
+## 前篇
+此处有[详细版本](https://github.com/HsiangHo/In-Memory-Of-WWDC18)!!
+### 签证
+美国签证申请环节大概会耗时半个月左右。 
+首先按照网上教程自行填写[DS-160表](https://ceac.state.gov/genniv/),签证类型我选择的B2。在此强烈建议自行填写此表，因为在面谈环节VO会根据此表提出很多问题，要做到胸有成竹才不会有因为表格填写问题导致被拒。
+然后在中信银行网上缴费，预约面谈。
+最后前往美领馆面谈。面谈时，自然大方回答面试官问题就行。在此，建议向Apple申请一封Visa letter,在面谈和入境时非常有用。
+### 机票
+WWDC期间机票并不算贵，在淘宝飞猪上购买从成都往返洛杉矶或者旧金山的机票在4000人民币左右。
+### 住宿
+如果在Airbnb预订民宿，那可非常便宜了。通过WeChat我找到了一同参加WWDC的4个大伙伴，最后以1500+一晚的价格租了一套大房子，真是非常的开心啦！
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+## 中篇
+###Day 0
 
-## Quick Start
+###Day 1
 
-### Create a new post
+###Day 2
 
-``` bash
-$ hexo new "My New Post"
-```
+###Day 3
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+###Day 4
 
-### Run server
+###Day 5
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
-
+## 后篇
 
