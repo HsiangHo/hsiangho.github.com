@@ -11,7 +11,6 @@ comments: false
 sidebar: none
 ---
 
-## Application Support
 Have any problems using the App or need any help, feel free to contact me, I will reply in time and provide technical support.
 
 Thank you. :)
