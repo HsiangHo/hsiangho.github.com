@@ -1,6 +1,6 @@
 ---
-title: 关于
-description: 是一个热爱生活、努力、温柔、有趣、幸运的人。
+title: About
+description: Exploring lands and technologies
 layout: about
 comments: false
 sidebar: custom
@@ -18,7 +18,7 @@ sidebar: custom
   github: 'https://github.com/hsiangho',
   blog: 'https://hsiangho.github.io/',
   email: 'hsiangho@foxmail.com',
-  description: '成为开发者是我1998年时的理想！',
+  description: 'To be a developer was my dream in 1998！',
 
   skills: [
     ['C', 'C++', 'Objective-C', 'Objective-C++', 'python', 'Go'],
