@@ -31,9 +31,9 @@ site:
     width: 40
     height: 40
     url: ../images/logo.png
-  title: 何翔君的专栏 # 页面title
+  title: Xiang's Blog # 页面title
   favicon: /favicon.png
-  board: <p>这家伙很懒，什么都没有留下。</p> # 站点公告
+  board: <p>Need any help from me, feel free to contact me: hsiangho@foxmail.com </p> # 站点公告
   copyright: false # 底部版权信息
 
 # config
