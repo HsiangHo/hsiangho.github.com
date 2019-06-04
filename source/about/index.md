@@ -17,7 +17,7 @@ sidebar: custom
   major: 'Economics',
   github: 'https://github.com/hsiangho',
   blog: 'https://hsiangho.github.io/',
-  email: 'hsiangho@foxmail.com',
+  email: 'object.xiang@gmail.com',
   description: 'To be a developer was my dream in 1998！',
 
   skills: [

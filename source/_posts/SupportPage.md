@@ -16,5 +16,5 @@ Have any problems using the App or need any help, feel free to contact me, I wil
 Thank you. :)
 
 ## Contact me
-E-mail: hsiangho@foxmail.com
+E-mail: object.xiang@gmail.com
 
