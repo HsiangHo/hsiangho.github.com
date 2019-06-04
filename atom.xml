@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hsiangho.github.io/"/>
+  <updated>2019-06-04T15:28:24.474Z</updated>
+  <id>https://hsiangho.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Support Page</title>
+    <link href="https://hsiangho.github.io/2018/06/13/SupportPage/"/>
+    <id>https://hsiangho.github.io/2018/06/13/SupportPage/</id>
+    <published>2018-06-13T13:45:00.000Z</published>
+    <updated>2019-06-04T15:28:24.474Z</updated>
+    
+    <content type="html"><![CDATA[<p>Have any problems using the App or need any help, feel free to contact me, I will reply in time and provide technical support.</p><p>Thank you. :)</p><h2 id="Contact-me"><a href="#Contact-me" class="headerlink" title="Contact me"></a>Contact me</h2><p>E-mail: <a href="mailto:object.xiang@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">object.xiang@gmail.com</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Have any problems using the App or need any help, feel free to contact me, I will reply in time and provide technical support.&lt;/p&gt;
+&lt;p&gt;Tha
+      
+    
+    </summary>
+    
+      <category term="Support" scheme="https://hsiangho.github.io/categories/Support/"/>
+    
+    
+      <category term="Support" scheme="https://hsiangho.github.io/tags/Support/"/>
+    
+  </entry>
+  
+</feed>
